@@ -22,6 +22,7 @@ function log_activity($conn, $id_utilisateur, $action) {
 }
 
 
+
 $host = "localhost";
 $user = "root";
 $pass = ""; 
