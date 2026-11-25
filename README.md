@@ -23,6 +23,7 @@ Frontend : HTML5, CSS3, JavaScript
 Base de données : MySQL  XAMPP
 
 
+
 📋 Prérequis
 
 PHP 8.0+ (ou version compatible avec le projet)
