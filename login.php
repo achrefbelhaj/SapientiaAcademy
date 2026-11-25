@@ -10,6 +10,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $email    = trim($_POST["email"] ?? '');
     $password = $_POST["password"] ?? '';
 
+    
     //protège contre l'injection SQL
     $stmt = $conn->prepare(
         "SELECT id_utilisateur, prenom, nom, role, mot_de_passe
