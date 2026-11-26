@@ -1,4 +1,4 @@
-🎓 SapientiaAcademy – Educational Management Platform
+🎓 SapientiaAcademy – Educational Management Platform 2025
 
 Une application web éducative permettant de centraliser la gestion des cours, des chapitres, des exercices et des utilisateurs. La plateforme propose un espace administrateur pour gérer les ressources pédagogiques et un espace étudiant pour consulter les cours et pratiquer les exercices.
 
